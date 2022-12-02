@@ -248,6 +248,8 @@
   font-size: 36px;
   font-weight: normal;
   z-index: 1;
+  text-decoration: none;
+  color: black;
 }
 .feynman__foto{
   width: 867px;
